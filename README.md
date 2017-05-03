@@ -1,1 +1,3 @@
-# web-dev-101
+# Web Development Collection
+## Curated resources
+
