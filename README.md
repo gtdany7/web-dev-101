@@ -1,5 +1,5 @@
 # Web Development Collection
-Curated resources
+### Curated resources
 
 ## Front-End
 
